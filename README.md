@@ -1,4 +1,4 @@
-# Telecom Campaign Subscription — Exploratory Data Analysis
+# Telecom Campaign Subscription - Exploratory Data Analysis
 
 An exploratory data analysis project investigating which customer segments are most likely to subscribe to a telecom provider's new subscription package, based on a dataset of 41,180 customer records from a direct marketing campaign.
 
@@ -15,9 +15,9 @@ A telecom provider ran a marketing campaign but only 11.3% of 41,000 customers s
 
 ## Key Findings
 
-- Previous campaign success is the strongest predictor — customers who previously subscribed were **6x more likely** to subscribe again
+- Previous campaign success is the strongest predictor - customers who previously subscribed were **6x more likely** to subscribe again
 - Call duration showed the strongest numeric correlation (r = 0.41)
-- Macroeconomic indicators showed moderate negative correlations — customers are more receptive during economic uncertainty
+- Macroeconomic indicators showed moderate negative correlations - customers are more receptive during economic uncertainty
 - Chi-squared tests confirmed significant associations for previous campaign outcome, job type and contact method
 
 ## Dataset
@@ -28,7 +28,7 @@ A telecom provider ran a marketing campaign but only 11.3% of 41,000 customers s
 - Macroeconomic indicators
 - Subscription outcome (target variable)
 
-Source: Moro et al. (2014) — UCI Bank Marketing Dataset
+Dataset was provided by the course instructor as part of the 36103 Statistical Thinking for Data Science assessment at UTS.
 
 ## Project Structure
 
@@ -53,10 +53,6 @@ This project was completed as part of UTS 36103 assessment.
 Shared for portfolio purposes only. Please do not copy or submit any part of this work as your own.
 
 ## Author
-
-Sushruta Gangadhar Patil  
-Master of Data Science and Innovation  
-University of Technology Sydney
 
 Sushruta Gangadhar Patil  
 Master of Data Science and Innovation  
